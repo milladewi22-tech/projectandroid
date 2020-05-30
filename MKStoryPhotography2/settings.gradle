@@ -1,0 +1,2 @@
+rootProject.name='MKStoryPhotography2'
+include ':app'

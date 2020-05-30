@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">MKStoryPhotography2</string>
+
+    <string-array name="data_menu">
+        <item>Pre-Wedding (Gold)</item>
+        <item>Pre-Wedding (Silver)</item>
+        <item>Pre-Wedding (Platinum)</item>
+        <item>Wedding (Silver)</item>
+        <item>Wedding (Platinum)</item>
+    </string-array>
+
+    <string name="about">We are a passionate company of photographers, photographers, videographers, designers, editors and stylists - working together to create beautiful masterpieces. Our vision is specifically to capture their moments as beautiful as possible, and as best as possible, so that our work will be remembered until their old. Every day we step, to continue to capture the moment of their marriage. MK STORY works with an inspired feeling - triggered by desire, triggered by laughter, challenged by creativity. We find ourselves fascinated by the love story and fascinated by the twinkle of an eye, the sincerity of a smile and the magic of a hug. That\'s how we made the page take a few moments. MK Story Photography is waiting for your various love stories to be enshrined.</string>
+
+    <string name="textgold">Pre-Wedding Gold merupakan gaya foto berkonsep indoor dengan memberikan kesan yang menarik, unik, dan berbeda dari yang lainya.</string>
+    <string name="includegold">- Casual Costume Consept. \n
+                         - Art Costume Consept. \n
+                         - Full Color Photos Session. \n
+                         - Photo Session With Children Or Fav Animal.\n
+                         - 1 Location. \n
+                         - 1 Photographer. \n
+                         - 1 Videographer.\n
+                         - 40 Photos Edit.\n
+                         - 1 Highlight Video (IG).\n
+                         - 1 Full Video 3 Minutes (1 Song). \n
+                         - All File Google Drive.</string>
+
+    <string name="textsilver">Pre-Wedding Silver merupakan gaya foto berkonsep outdoor, yang bisa dilakukan ditempat prewedding yang disukai. Namun tetap memberikan kesan spesial dan berbeda untuk couple.</string>
+    <string name="includesilver">- Day or Night Photo Session.\n
+                                 - Photo With Fire Consept.\n
+                                 - 8 Hours Photo Session.\n
+                                 - 3 location. \n
+                                 - 1 Photographer.\n
+                                 - 1 Videographer + Drone.\n
+                                 - 80 Photos Edit.\n
+                                 - 1 Highlight Video (IG).\n
+                                 - 1 Full Video 3 Minutes (1 Song).\n
+                                 - All File Google Drive.</string>
+
+    <string name="textplatinum">Pre-Wedding Platinum merupakan foto pre-wedding session berkonsep outdoor dengan pilihan tempat yang begitu menakjubkan. Kamu bisa memilih 3 tempat dari pilihan yang sudah disediakan ( Pulau Impian ) sebagai tempat momen anda diabadikan.</string>
+    <string name="includeplatinum"> - 1 Hotel Bedroom for 1 couple.\n
+                                    - 3 Location.\n
+                                    - Option For Sumba Photo Session.\n
+                                    "    "1. Pantai Mandorak.\n
+                                    "    "2. Bukit Wairinding.\n
+                                    "    "3. Tanjung Mareha.\n
+                                    "    "4. Pantai Bawana.\n
+                                    "    "5. Pantai Walakiri.\n
+                                    - Option For Labuan Bajo Photos Session.\n
+                                    "    "1. Pulaua Kanawa.\n
+                                    "    "2. Pulau Padar.\n
+                                    "    "3. Pulau Komodo.\n
+                                    "    "4. Pink Beach.\n
+                                    "    "5. Pulau Kelor.\n
+                                    - Option For Lombok Photos Session.\n
+                                    "    "1. Bukit Merese.\n
+                                    "    "2. Pantai Seger.\n
+                                    "    "3. Desa Ende.\n
+                                    "    "4. Kawasan Pohon Purba.\n
+                                    "    "5. Gilli Nanggu.\n
+                                    - Option For Raja Ampat Photo Session\n
+                                    "    "1. Pulau Painemu.\n
+                                    "    "2. Danau Ubur-Ubur.\n
+                                    "    "3. Pulau Misol.\n
+                                    "    "4. Raja Ampat Forest.\n
+                                    "    "5. Pantai Pasir Putih.\n
+                                    - 2 Photographer.\n
+                                    - 1 Videographer + Drone.\n
+                                    - 80 Photos Edit.\n
+                                    - 1 Highlight Video (IG).\n
+                                    - 1 Full Video 5-10 Minutes.\n
+                                    - All File on USB FlashDisk + Box.</string>
+
+    <string name="textwedsilver">Wedding Silver merupakan foto wedding session yang memberikan kualitas yang sesuai dengan paket (Silver) dan memberikan keunggulan tersendiri sesuai dengan cost. Berfokus pada fotografi acara dan kegiatan yang berkaitan dengan pernikahan, seperti sesi pertunangan. Pada hari pernikahan resmi, fotografer akan berupaya memberikan fotografi potret, serta liputan fotografi dokumenter untuk mendokumentasikan berbagai acara dan ritual sepanjang hari pernikahan.</string>
+    <string name="includewedsilver">- 8 hours foto session. \n
+                                    - 2 Photographer.\n
+                                    - 2 Videographer.\n
+                                    - 80 Photos Edit.\n
+                                    - 1 Highlight Video (IG).\n
+                                    - 1 Full Video 3 Minutes.\n
+                                    - All File Google Drive.</string>
+
+    <string name="textwedplatinum">Wedding Platinum merupakan foto wedding session yang memberikan kualitas yang sangat tinggi sesuai dengan paket (Platinum) dan memberikan keunggulan tersendiri sesuai cost, artinya photo wedding mahal akan memberikan result yang luar biasa bagi client. Berfokus pada fotografi acara dan kegiatan yang berkaitan dengan pernikahan, seperti sesi pertunangan. Pada hari pernikahan resmi, fotografer akan berupaya memberikan fotografi potret, serta liputan fotografi dokumenter untuk mendokumentasikan berbagai acara dan ritual sepanjang hari pernikahan.</string>
+    <string name="includewedplatinum">- 8 hours foto session. \n
+                                      - 2 Photographer.\n
+                                      - 2 Videographer + Drone.\n
+                                      - 80 Photos Edit.\n
+                                      - 1 Highlight Video (IG).\n
+                                      - 1 Full Video 5-10 Minutes.\n
+                                      - All File on USB FlashDisk + Box.</string>
+
+</resources>
