@@ -21,10 +21,6 @@ import org.json.JSONObject;
 import java.util.ArrayList;
 //implements MenuAdapter.OnItemClickListener
 public class MainActivity extends AppCompatActivity  {
-//    public static final String EXTRA_URL = "gambar";
-//    public static final String EXTRA_NAMA = "nama";
-//    public static final String EXTRA_HARGA ="harga";
-//    public static final String EXTRA_KET = "ket";
 
     private MenuAdapter menuAdapter;
     private RecyclerView recyclerView;
@@ -82,17 +78,5 @@ public class MainActivity extends AppCompatActivity  {
         requestQueue.add(request);
     }
 
-
-//    @Override
-//    public void OnItemClick(int potition) {
-//        Intent detailIntent = new Intent(this, GoldDetailActivity.class);
-//        Menu clickItem= menus.get(potition);
-//
-//        detailIntent.putExtra(EXTRA_URL, clickItem.getGambar());
-//        detailIntent.putExtra(EXTRA_NAMA, clickItem.getNama());
-//        detailIntent.putExtra(EXTRA_HARGA, clickItem.getHarga());
-//        detailIntent.putExtra(EXTRA_KET, clickItem.getKet());
-//
-//        startActivity(detailIntent);
     }
 
